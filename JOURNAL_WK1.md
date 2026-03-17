@@ -1,4 +1,4 @@
-Journal - Week 1
+## Journal - Week 1
 
 This was my process in building this RC Circuit!
 Video: 
